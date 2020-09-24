@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) following the instructions on [this post on next.js authentication with aws amplify](https://dev.to/dabit3/the-complete-guide-to-next-js-authentication-2aco). I have omitted the dirs created by `amplify init`. So you can take this, run `amplify init && amplify push && amplify publish`.
 
 ## Getting Started
 
