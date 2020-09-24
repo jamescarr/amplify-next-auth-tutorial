@@ -50,4 +50,11 @@ amplify-gradle-config.json
 amplifytools.xcconfig.serverless
 .serverless_nextjs
 1600946080916.zip
-.serverless
+.serverless/Template.json
+.serverless/Template.myNextApp.AwsS3.json
+.serverless/Template.myNextApp.CloudFront.json
+.serverless/Template.myNextApp.apiEdgeLambda.AwsIamRole.json
+.serverless/Template.myNextApp.apiEdgeLambda.json
+.serverless/Template.myNextApp.defaultEdgeLambda.AwsIamRole.json
+.serverless/Template.myNextApp.defaultEdgeLambda.json
+.serverless/_.json
