@@ -58,3 +58,4 @@ amplifytools.xcconfig.serverless
 .serverless/Template.myNextApp.defaultEdgeLambda.AwsIamRole.json
 .serverless/Template.myNextApp.defaultEdgeLambda.json
 .serverless/_.json
+amplify
